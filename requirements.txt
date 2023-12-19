@@ -1,0 +1,3 @@
+
+pymsql
+mysql-connector-python
